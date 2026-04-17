@@ -16,12 +16,13 @@ Smart Financial Analysis System
   Provides interactive radar and bar charts
   Supports file upload and manual input
 5. How to run
-   This application is designed to run locally.It uses a separate backend API (FastAPI) and frontend (Streamlit),
-so it is not deployed on Streamlit Cloud.Please follow the “How to run” steps to start it on your own computer.
-  Clone the repo
-  Install dependencies: pip install -r requirements_finance.txt
-  Run with Python 3.11: streamlit run finance_streamlit_app.py
-  Open: http://localhost:8501
+   This application is designed to run locally.It uses a separate backend API (FastAPI) and frontend (Streamlit),so it is not deployed on Streamlit Cloud.Please follow the “How to       run” steps to start it on your own computer.
+   Important Note: This project should run on Python 3.10.14.
+   Due to compatibility issues of some packages, other Python versions (especially 3.12+) will cause installation failures and prevent the code from running successfully.
+   Clone the repo
+   Install dependencies: pip install -r requirements_finance.txt
+   Run with Python 3.11: streamlit run finance_streamlit_app.py
+   Open: http://localhost:8501
 7. Product link / Demo
   Local app: http://localhost:8501
   Demo video: [Your video link]
