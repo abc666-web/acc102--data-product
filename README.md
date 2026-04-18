@@ -28,6 +28,7 @@ Smart Financial Analysis System
       pip install -r requirements_finance.txt
       # One‑command full system start
       python start_finance_system.py
+   
   After running, open your browser and access the app at: http://localhost:8501
 
 7. Product link / Demo
