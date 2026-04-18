@@ -22,7 +22,7 @@ Smart Financial Analysis System
   This project supports one‑command startup that automatically installs dependencies, launches the backend API, and starts the frontend interface.
       bash
       # Clone the repository
-      git clone https://github.com/你的用户名/acc102--data-product.git
+      git clone https://github.com/abc666-web/acc102--data-product.git
       cd acc102--data-product
       # Install dependencies
       pip install -r requirements_finance.txt
