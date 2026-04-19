@@ -4,13 +4,12 @@ Smart Financial Analysis System
    
   This project analyzes corporate financial performance for clear business decision-making and learning purposes. The target audience is managers, financial analysts, and students.
 
-2. Data Source
-   
-  Data source: User-uploaded CSV/Excel files or manual input
-  Access date: Real-time processing
-  Key variables: Revenue, net profit, assets, liabilities, equity, inventory, accounts receivable, market cap
+2. Data Source    
+(1) Data source: User-uploaded CSV/Excel files or manual input
+(2) Access date: Real-time processing
+(3) Key variables: Revenue, net profit, assets, liabilities, equity, inventory, accounts receivable, market cap
 
-3. Methods (Python Workflow)
+4. Methods (Python Workflow)
    
   Data cleaning and calculation with Pandas
   Financial indicator analysis and computation
