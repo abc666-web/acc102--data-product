@@ -24,9 +24,10 @@ Smart Financial Analysis System
  
 5. How to Run
    1.  Clone this repository
-   2.  Install dependencies: pip install -r requirements_finance.txt
-   3.  Run one‑command startup: python start_finance_system.py
-   4.  Open the app at: http://localhost:8501
+   2.  Ensure Python 3.10.14 is installed on your system
+   3.  Install dependencies: pip install -r requirements_finance.txt
+   4.  Run one‑command startup: python start_finance_system.py
+   5.  Open the app at: http://localhost:8501
  
 6. Limitations
    1. Requires Python 3.10.14 due to package compatibility
@@ -35,7 +36,7 @@ Smart Financial Analysis System
    4. Basic interface design
 
 7. Demo / Product Link
-   1. Local app: http://localhost:8501
+   1. Local app: [http://39.106.101.224:8502]
    2. Demo video: [Your video link]
    3. GitHub repo: https://github.com/abc666-web/acc102--data-product.git
 
